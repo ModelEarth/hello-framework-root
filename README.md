@@ -2,7 +2,11 @@
 
 In this test, the content of the "dist" folder are moved into the root of a repo.
 
-Test results: Placing the Dist files in the root of the repo broke the formatting:
+Test results: Works!
+
+Important: place a blank .nojekyll file in the root of your site.
+
+The .nojekyll file allows files starting with _ to be used.
 
 [model.earth/hello-framework-root](https://model.earth/hello-framework-root)
 
