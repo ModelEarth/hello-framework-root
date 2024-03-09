@@ -8,4 +8,4 @@ Test results: Placing the Dist files in the root of the repo broke the formattin
 
 [model.earth/hello-framework-root](https://model.earth/hello-framework-root)
 
-[Related Posts](https://github.com/observablehq/framework/discussions/1030)
+[Related Posts](https://github.com/observablehq/framework/discussions/1030) - [Docs folder test](https://github.com/ModelEarth/hello-framework-docs)
