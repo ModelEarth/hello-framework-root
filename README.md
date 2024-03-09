@@ -1,8 +1,6 @@
-# Observable Test - Files in Repo Root
+## Hello Framework - Static "dist" files copied to repo root
 
-## Hello Framework - Static Files external to folders
-
-In this example, the content of the "dist" folder are moved into the root of a repo.
+In this test, the content of the "dist" folder are moved into the root of a repo.
 
 With this deployment, the docs folder can remain in the same repo and could contain an index.html file with an overview of the source docs.
 
