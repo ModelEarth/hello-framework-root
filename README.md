@@ -10,4 +10,4 @@ With this deployment, the docs folder can remain in the same repo and could cont
 
 [model.earth/hello-framework-root](https://model.earth/hello-framework-root)
 
-[https://github.com/observablehq/framework/discussions/1030](Related Posts)
+[Related Posts](https://github.com/observablehq/framework/discussions/1030)
